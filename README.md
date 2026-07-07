@@ -176,7 +176,8 @@ It enables data-driven decision-making by identifying growth opportunities and p
 
 ---
 
-## 👩‍💻 Created By
+# 👩‍💻 Connect With me
 
-**Gitasri Das**  
+- GitHub: https://github.com/gitasri-das
+- LinkedIn: www.linkedin.com/in/gitasri-das
 
