@@ -139,21 +139,20 @@ Analyzes order patterns and shipping performance.
 
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Overview
-![Executive Dashboard](Images/Executive_Overview.png)
-
-### Customer Analysis
-![Customer Dashboard](Images/Customer_Analysis.png)
-
-### Product Performance
-![Product Dashboard](Images/Product_Performance.png)
-
-### Order Analysis
-![Order Dashboard](Images/Order_Analysis.png)
-
 ---
+## 📊 Dashboard Preview
+
+### 🏠 Executive Overview
+![Executive Overview](Images/Executive_Overview.png)
+
+### 👥 Customer Analysis
+![Customer Analysis](Images/Customer_Analysis.png)
+
+### 📦 Product Performance Analysis
+![Product Performance](Images/Product_Performance.png)
+
+### 🛒 Order Analysis
+![Order Analysis](Images/Order_Analysis.png)
 
 ## 🚀 Skills Demonstrated
 
