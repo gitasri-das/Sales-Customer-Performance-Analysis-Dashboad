@@ -18,8 +18,48 @@ The goal of this project is to transform raw sales data into meaningful insights
 - Data Modeling
 
 ---
+## 📂 Dataset Information
 
-## 📂 Dashboard Pages
+The dataset contains e-commerce sales transactions including:
+
+- Orders
+- Customers
+- Products
+- Categories
+- Regions
+- Sales
+- Profit
+- Discount
+- Shipping Details
+
+---
+
+## 🔄 Project Workflow
+
+### 1. Data Import & Cleaning (SQL Server)
+
+- Imported CSV dataset into SQL Server
+- Checked missing values
+- Removed null records
+- Verified data consistency
+- Created SQL views for analysis
+
+---
+
+### 2. SQL Analysis Performed
+
+✔ Total Sales Analysis  
+✔ Profit Analysis  
+✔ Customer Analysis  
+✔ Product Performance Analysis  
+✔ Regional Sales Analysis  
+✔ Monthly Sales Trends  
+✔ Discount Impact Analysis  
+✔ Shipping Performance Analysis  
+
+---
+
+## 📊 Dashboard Pages
 
 ### 1️⃣ Executive Overview
 
@@ -129,7 +169,15 @@ Analyzes order patterns and shipping performance.
 
 ---
 
+## 🎯 Conclusion
+
+This dashboard provides a complete view of sales performance, customer behavior, product insights, and order operations.
+
+It enables data-driven decision-making by identifying growth opportunities and performance gaps.
+
+---
+
 ## 👩‍💻 Created By
 
 **Gitasri Das**  
-Data Analyst Portfolio Project
+
