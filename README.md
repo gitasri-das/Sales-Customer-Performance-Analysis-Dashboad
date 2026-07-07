@@ -142,16 +142,16 @@ Analyzes order patterns and shipping performance.
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](images/executive.png)
+![Executive Dashboard](Images/Executive_Overview.png)
 
 ### Customer Analysis
-![Customer Dashboard](images/customer.png)
+![Customer Dashboard](Images/Customer_Analysis.png)
 
 ### Product Performance
-![Product Dashboard](images/product.png)
+![Product Dashboard](Images/Product_Performance.png)
 
 ### Order Analysis
-![Order Dashboard](images/order.png)
+![Order Dashboard](Images/Order_Analysis.png)
 
 ---
 
